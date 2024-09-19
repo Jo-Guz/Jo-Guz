@@ -2,7 +2,6 @@
 - 👀 I’m interested in: || Drawing and coding in Java, Javascript, CSS and HTML5 ||
 - 💞️ I’m looking to collaborate on: || Simple exercises for begginers ||
 - 📫 How to reach me: || Later heh ||
-- 😄 Pronouns: || ||
 - ⚡ Fun fact: || I'm kinda random ||
 
 <!---
